@@ -1,4 +1,4 @@
-# mirth-connect-docker
+# mirth-openEMR-connect-docker
 
 Mirth-Connect Docker Stack (Mirth-Connect container + Mysql container + PHPMyAdmin container)
 
