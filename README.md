@@ -21,7 +21,7 @@ Mirth-Connect Docker Stack (Mirth-Connect container + Mysql container + PHPMyAdm
 
 ## Connect to PHPMyAdmin
 
-- url: [http://localhost:8181]()
+- url: [http://localhost:81]()
 - user: *root*
 - password: *password*
 
